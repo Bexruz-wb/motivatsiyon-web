@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "news": "News",
+    "language": "Language",
+    "darkMode": "🌙 Dark Mode"
+  },
+  "hero_title": "Get inspired every day",
+  "hero_description": "Start your day with power and purpose!",
+  "hero_button": "Get Inspired",
+  "todayMotivation": "Today's Motivation",
+  "quote1": "The starting point of all achievements is desire.",
+  "quote2": "Believe in yourself and the power within.",
+  "quote3": "Small steps lead to big changes. Take one step each day.",
+  "quote4": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "subscribe": {
+    "intro": "Subscribe to stay updated with the latest",
+    "emailPlaceholder": "Your email address",
+    "subscribeButton": "Subscribe",
+    "emptyEmail": "Please enter your email.",
+    "invalidEmail": "Please enter a valid email address.",
+    "thanks": "Thank you for subscribing!"
+  },
+  "successStories": {
+    "title": "Success Stories",
+    "stories": [
+      {
+        "name": "Ali Karimov",
+        "story": "Ali improved his life through daily motivation from our platform."
+      },
+      {
+        "name": "Laylo Islomova",
+        "story": "Laylo is confidently achieving her goals through motivational videos."
+      }
+    ]
+  },
+  "successStories_intro": "Read inspiring stories from our community.",
+  "ctaText": "Watch our motivational videos",
+  "ctaButton": "Watch",
+  "videoSection_title": "Motivational Videos",
+  "videoSection_description": "Lift your spirit with these inspiring videos.",
+  "videoSection_noVideos": "No videos available at the moment. Please check back later.",
+  "footer": {
+    "text": "© 2025 Motivation. All rights reserved."
+  },
+  "about_title": "About Us",
+  "about_description": "We strive to inspire people every single day.",
+  "about_mission": "Our mission is to motivate and empower everyone.",
+  "news_title": "Latest News",
+  "news_subtitle": "Stay informed with the latest updates.",
+  "news_readMore": "Read More"
+}

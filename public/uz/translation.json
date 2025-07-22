@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "news": "Yangiliklar",
+    "language": "Til",
+    "darkMode": "🌙 Tungi holat"
+  },
+  "hero_title": "Har kuni ilhomlaning",
+  "hero_description": "Bugungi kuningizni kuchliroq va maqsadli boshlang!",
+  "hero_button": "Ilhom olish",
+  "todayMotivation": "Bugungi motivatsiya",
+  "quote1": "Barcha yutuqlarning boshlanish nuqtasi istakdir.",
+  "quote2": "O‘zingizga va ichingizdagi kuchga ishoning.",
+  "quote3": "Kichik qadamlar katta o‘zgarishlarga olib keladi. Har kuni bir qadam tashlang.",
+  "quote4": "Muvaffaqiyat doimiy emas, muvaffaqiyatsizlik halokat emas: davom etish jasorati muhim.",
+  "subscribe": {
+    "intro": "Yangiliklardan xabardor bo‘lish uchun obuna bo‘ling",
+    "emailPlaceholder": "Email manzilingiz",
+    "subscribeButton": "Obuna bo‘lish",
+    "emptyEmail": "Iltimos, email manzilingizni kiriting.",
+    "invalidEmail": "Iltimos, to‘g‘ri email manzil kiriting.",
+    "thanks": "Obunangiz uchun rahmat!"
+  },
+  "successStories": {
+    "title": "Muvaffaqiyat hikoyalari",
+    "stories": [
+      {
+        "name": "Ali Karimov",
+        "story": "Ali bizning platformamizdan kunlik motivatsiya olib, hayotini yaxshiladi."
+      },
+      {
+        "name": "Laylo Islomova",
+        "story": "Laylo motivatsion videolar orqali maqsadlariga ishonch bilan erishmoqda."
+      }
+    ]
+  },
+  "successStories_intro": "Hamjamiyatimizdan ilhomlantiruvchi hikoyalarni o‘qing.",
+  "ctaText": "Motivatsion videolarimizni ko‘ring",
+  "ctaButton": "Ko‘rish",
+  "videoSection_title": "Motivatsion videolar",
+  "videoSection_description": "Ushbu ilhomlantiruvchi videolar bilan ruhingizni ko‘tarib oling.",
+  "videoSection_noVideos": "Hozircha video mavjud emas. Iltimos, keyinroq qayta tekshiring.",
+  "footer": {
+    "text": "© 2025 Motivatsiya. Barcha huquqlar himoyalangan."
+  },
+  "about_title": "Biz haqimizda",
+  "about_description": "Biz har kuni insonlarni ilhomlantirishga intilamiz.",
+  "about_mission": "Bizning vazifamiz – hammani motivatsiya qilish va quvvatlantirish.",
+  "news_title": "So‘nggi yangiliklar",
+  "news_subtitle": "So‘nggi yangiliklardan xabardor bo‘ling.",
+  "news_readMore": "Batafsil"
+}
